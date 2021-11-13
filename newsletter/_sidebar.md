@@ -10,3 +10,4 @@
 
 * General News
   * [Important Security Updates](/mds/news/important_security_updates.md)
+  * [furkan](/mds/furkan/mami.md)
