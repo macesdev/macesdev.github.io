@@ -1,2 +1,3 @@
 # furkan merhaba
-Mami iyi biridir.
+Furkan adamın dibidir. </br>
+furkanbı yirim ben yirim </br>
