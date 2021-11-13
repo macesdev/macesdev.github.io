@@ -1,8 +1,8 @@
-* macesdev newslatter
+* Newslatter
 
   * [What is newslatter?](README.md)
   * [Last News](/mds/general/lastnews.md)
-  * [Categories](/mds/general/categories.md)
+  * [Categorized](/mds/general/categories.md)
 
 * BeMU Project
   * [BeMU Introduction](/mds/bemu/bemu_indr.md)
