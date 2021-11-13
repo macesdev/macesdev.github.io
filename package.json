@@ -1,0 +1,19 @@
+{
+  "name": "mdocs",
+  "version": "1.0.0",
+  "description": "macesdev foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macesdev/macesdev.github.io.git"
+  },
+  "author": "macesdev foundation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macesdev/macesdev.github.io/issues"
+  },
+  "homepage": "https://github.com/macesdev/macesdev.github.io#readme"
+}
