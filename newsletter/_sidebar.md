@@ -5,8 +5,8 @@
   * [Categorized](/mds/general/categories.md)
 
 * BeMU Project
+  * [BeMU Patch Note snp_1.1.4](/mds/bemu/bemu_patch_1_1_4.md)
   * [BeMU Introduction](/mds/bemu/bemu_indr.md)
-  * [BeMU Patch 1.1.4](/mds/bemu/bemu_patch_1_1_4.md)
 
 * General News
   * [Important Security Updates](/mds/news/important_security_updates.md)

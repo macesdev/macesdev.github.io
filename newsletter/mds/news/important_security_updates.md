@@ -1,4 +1,4 @@
-# Important Security Updates
+# Important Security Updates <!-- {docsify-ignore-all} -->
 
 Ih, Uh.. Hello! 
 
