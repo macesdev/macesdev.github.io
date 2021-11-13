@@ -6,15 +6,15 @@ This version brings with it many innovations. Let's start the review if you want
 
 Hmm.. let's think about it! What are roles good for? I'm not talking about the roles given to the actors on a theater stage! I'm talking about roles used to specify security, protection and privileges! Then let's take a closer look at the added role system.
 
->  Moderator Role
+>  **Moderator Role**
 
 The task of this role is to ensure security on the server, and to intervene immediately in case of any adverse event.
 
->  Guide Role
+>  **Guide Role**
 
 The task of this role is to help the users who are newly registered in the system, to help them where they have difficulty by showing them the easy and short ways.
 
->  Immediate Maintenance Role
+>  **Immediate Maintenance Role**
 
 This role warns active users, indicating that a problem may occur in the near future and that they need to take precautions.
 
@@ -46,7 +46,7 @@ h = hours </br>
 d = days </br>
 y = years
 
-### +ban <uid>
+> **+ban <uid>**
 
 It cuts off the user's access from the server for an unlimited period of time.
 
@@ -56,8 +56,15 @@ Example Usage:
 +ban rVXIDqy5gCSYhzeez5hK32FD5Uh1 "flooding"
 ```
 
-(Many commands will be added soon, you can read them in macesdev guide documentation.)
+**(Many commands will be added soon, you can read them in **macesdev guide** documentation.)**
+
+# Android Support is Coming!
+
+Yes, although the app only works on Linux and Windows at the moment, we are starting to develop the Android version! BeMU Chat, which will be published on mStore, will be with you very soon!
 
 
-
+> Writed by, **@MuhammedMGS, @furkan4848** </br>
+> Last Edit Time: **13.11.2021 - 16:52**
+> 
+> Hey! This page is live on github! do you want to [look](https://github.com/macesdev/macesdev.github.io)?
 
