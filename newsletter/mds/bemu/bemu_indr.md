@@ -9,7 +9,7 @@ Today, we are happy to announce to you the project that we have been considering
 **BeMU** is **Java (Maven)** based Chat application that works easily on **Windows**, **Linux** and **Android** platforms. On the server side, it uses Google **Firebase Authentication**, **Realtime and Firestore Database** systems. Mostly Java, Dart (Flutter), ReactJS and Python are used. With PROTECT4J, Java modules and resources are made non-decompileable and protected. Currently it only works on Linux x86_64 platform.
 
 
-> Writed by, **MuhammedMGS** </br>
+> Writed by, **@MuhammedMGS** </br>
 > Last Edit Time: **13.11.2021 - 16:10**
 > 
 > Hey! This page is live on github! do you want to [look](https://github.com/macesdev/macesdev.github.io)?
