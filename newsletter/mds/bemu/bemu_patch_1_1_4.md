@@ -49,4 +49,16 @@ y = years
 
 ## +ban <uid>
 
+It cuts off the user's access from the server for an unlimited period of time.
+
+Example Usage:
+
+```
++ban rVXIDqy5gCSYhzeez5hK32FD5Uh1 "flooding"
+```
+
+(Many commands will be added soon, you can read them in macesdev guide documentation.)
+
+
+
 
