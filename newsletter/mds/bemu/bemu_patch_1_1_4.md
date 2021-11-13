@@ -22,7 +22,7 @@ This role warns active users, indicating that a problem may occur in the near fu
 
 I hope you can't ask a question about what the commands are for.. ah, no, of course, we don't have to have you code js! (Looks like it's starting to make jokes, huh?) Commands are specific to officials, their main purpose is to simplify or shorten long-running tasks. Then let's examine the main commands to be added.
 
-## +clear <number>
+### +clear <number>
 
 This command deletes the given number from the chat. Only users with Moderators and Admin roles can use this command.
 
@@ -32,7 +32,7 @@ Example Usage:
 +clear 150
 ```
 
-## +kick <uid> <time>
+### +kick <uid> <time>
 
 This command prohibits the given user from entering the server for the specified period of time.
 
@@ -47,7 +47,7 @@ h = hours
 d = days
 y = years
 
-## +ban <uid>
+### +ban <uid>
 
 It cuts off the user's access from the server for an unlimited period of time.
 
