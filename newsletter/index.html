@@ -18,7 +18,20 @@
       repo: "macesdev/macesdev.github.io",
 
       loadSidebar: true,
-      loadNavbar: true
+      loadNavbar: true,
+
+      search: 'auto', // default
+
+      // complete configuration parameters
+      search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto',
+      placeholder: 'Type to search',
+      noData: 'No Results!',
+      // Headline depth, 1 - 6
+      depth: 6,
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
