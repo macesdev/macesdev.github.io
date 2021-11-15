@@ -63,7 +63,7 @@ Example Usage:
 Yes, although the app only works on Linux and Windows at the moment, we are starting to develop the Android version! BeMU Chat, which will be published on mStore, will be with you very soon!
 
 
-> Writed by, **@MuhammedMGS, @furkan4848** </br>
+> Writed by, **@muhammedmgs, @furkan4848** </br>
 > Last Edit Time: **13.11.2021 - 16:52**
 > 
 > Hey! This page is live on github! do you want to [look](https://github.com/macesdev/macesdev.github.io)?

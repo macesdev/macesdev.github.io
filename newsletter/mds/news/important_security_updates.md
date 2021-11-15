@@ -22,7 +22,7 @@ With the newly taken decision, advertising revenue will not be obtained from the
 
 Thank you for reading this article, take care!
 
-> Writed by, **@MuhammedMGS** </br>
+> Writed by, **@muhammedmgs** </br>
 > Last Edit Time: **13.11.2021 - 16:19**
 > 
 > Hey! This page is live on github! do you want to [look](https://github.com/macesdev/macesdev.github.io)?
