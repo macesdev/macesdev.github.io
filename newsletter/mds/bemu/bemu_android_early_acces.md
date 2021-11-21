@@ -1,4 +1,4 @@
-#BeMU Early Access Edition for Android is Released!
+# BeMU Early Access Edition for Android is Released!
 
 BeMU is open to everyone as early access as of now! You can download the current version from the link below!
 
