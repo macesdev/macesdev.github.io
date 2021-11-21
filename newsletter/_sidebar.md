@@ -1,5 +1,4 @@
 * Newslatter
-
   * [What is newslatter?](/mds/general/what_is_newsletter.md)
   * [Last News](/mds/general/lastnews.md)
   * [Categorized](/mds/general/categories.md)
