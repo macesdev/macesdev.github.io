@@ -14,3 +14,4 @@
 
 * General News
   * [Important Security Updates](/mds/news/important_security_updates.md)
+  * [New Copyright Changes](/mds/news/new_chprgiht_chngs.md)
