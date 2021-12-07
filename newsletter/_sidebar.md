@@ -9,7 +9,7 @@
   * [BeMU Patch Note snp_1.1.4](/mds/bemu/bemu_patch_1_1_4.md)
   * [BeMU Introduction](/mds/bemu/bemu_indr.md)
 
-* FlexDB OSS Project
+* FlexDB Project
   * [Indroducting FlexDB](/mds/flexdb/tanitim.md)
 
 * General News
