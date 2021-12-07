@@ -1,5 +1,6 @@
 # Last news!
 
+[07.12.2021 - Indroducting FlexDB](/mds/flexdb/tanitim.md)
 [21.11.2021 - BeMU Android Early Access Avaiable Now!](/mds/bemu/bemu_android_early_acces.md) </br>
 [15.11.2021 - BeMU Devlog #1](/mds/bemu/bemu_devlog_1.md) </br>
 [13.11.2021 - BeMU Path Note (v.1.1.4 - snapshot) ](/mds/bemu/bemu_patch_1_1_4.md) </br>
